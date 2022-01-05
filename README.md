@@ -1,3 +1,3 @@
 # Javascript30
 
-Refresh my Javascript skills
+Refresh my Javascript skills.
